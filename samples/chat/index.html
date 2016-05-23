@@ -1,0 +1,44 @@
+<html>
+
+<body>
+<div id="output"></div>
+<script>
+function setup(){
+
+var wsServer = 'ws://localhost:8084';
+var ws = new WebSocket(wsServer);
+
+ws.onopen = function (e) {
+    ws.send("123");
+} ;
+
+ws.onclose = function (e) {
+} ;
+
+ws.onmessage = function(e) {
+log("RECEIVED: " + e.data, e);
+
+}
+
+ws.onerror = function (e) {
+} ;
+
+}
+
+function log(s,e) {
+var output = document.getElementById("output");
+var p = document.createElement("p");
+p.style.wordWrap = "break-word";
+p.style.padding="10px";
+p.style.background="#eee";
+p.textContent = "LOG : "+s;
+output.appendChild(p);
+console.log("LOG : "+s, e);
+}
+
+setup();
+
+</script>
+
+</body>
+</html>

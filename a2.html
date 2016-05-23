@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>用户a2</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+</head>
+<body>
+<script>
+var ws = null;
+      
+
+function setup(){
+  var wsServer = 'ws://localhost:8040';
+  ws = new WebSocket(wsServer);
+  
+  ws.onopen = function (e) {} ;
+
+  ws.onclose = function (e) {} ;
+
+  ws.onmessage = function(e) {
+    log(e.data, e);
+  }
+  ws.onerror = function (e) {} ;
+  }
+
+  function log(s,e) {
+     var output = document.getElementById("output");
+     var str=output.value;
+     str=str+s;
+     output.value=str;
+}
+
+function sub(){
+   ws.send("{\"appID\":\"1\",\"cmd\":\"subscribe\","+"\"msg\":\"002\"}");
+}
+function unSub(){
+   //ws.send("{appID:\"1\",cmd:\"unSubscribe\","+"msg:\"001\"}");
+}
+
+setup();
+
+</script>
+<div align="center">
+  <button id="sub" style="width: 80px; height: 30px;" onclick=sub()>订阅</button>
+  <button id="unSub" style="width: 80px; height: 30px;" onclick=unSub()>取消订阅</button>
+</div>
+<br/>
+<div align="center">
+<textarea id='output' rows="25" cols="100"></textarea>
+</div>
+</body>
+</html>

@@ -1,0 +1,2318 @@
+[2016-03-18 11:03:30.327] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.329] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.334] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.344] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.347] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.349] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.352] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.361] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.364] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.366] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.369] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.390] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.392] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.396] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.397] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.405] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:03:30.407] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.410] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.412] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.416] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.418] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.419] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.422] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.423] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.426] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.428] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.449] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.452] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.455] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.461] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.464] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.467] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.469] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.471] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.482] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:03:30.484] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.486] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.488] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.490] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.492] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.494] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.496] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.498] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.500] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.502] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.519] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:03:30.521] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.523] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.525] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.528] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.530] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.532] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.535] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.537] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.540] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.541] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.562] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:03:30.564] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.567] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.568] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.570] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.572] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.573] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.580] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:03:30.582] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.584] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.586] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.588] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.590] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.591] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.603] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.606] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.609] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.610] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.630] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:03:30.632] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.634] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.636] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.639] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.640] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.641] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.645] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.647] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.649] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.651] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.668] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.670] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.672] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.674] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.683] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:03:30.685] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.687] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.690] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.692] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.693] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.695] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.697] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.701] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.702] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.704] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.722] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.724] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.726] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.728] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.738] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:03:30.740] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.742] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.744] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.746] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.750] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.751] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.753] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.755] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.757] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.758] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.776] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:03:30.778] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.780] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.786] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.789] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.791] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.793] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.795] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.797] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.799] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.800] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.817] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.819] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.822] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.823] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.834] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:03:30.836] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.839] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.841] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.844] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.846] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.848] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.849] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.851] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.853] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.855] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.873] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.876] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.878] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.879] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.890] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.892] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.894] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.895] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.903] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:03:30.905] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.907] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.909] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.911] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.912] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.913] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.923] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:03:30.925] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.926] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.928] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.945] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:03:30.948] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:03:30.951] [INFO] system - Rabbit Connection close
+[2016-03-18 11:03:30.952] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:03:30.960] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.192] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-03-18 11:05:05.223] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-03-18 11:05:05.423] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.472] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:05:05.477] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.483] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.487] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.489] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.492] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.498] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.500] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.504] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.507] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.512] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.519] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.527] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.530] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.533] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.536] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.541] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.543] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.544] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.548] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.552] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.557] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.559] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.565] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.567] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.569] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.572] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.581] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.584] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.586] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.591] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.600] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.605] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.609] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.621] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.627] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.631] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.643] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.649] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.654] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.656] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.659] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.661] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.668] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.670] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.673] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.675] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.677] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.680] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.684] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.687] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.689] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.693] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.698] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.700] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.710] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.713] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.718] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.720] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.739] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.741] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.745] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.754] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.768] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.772] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.776] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.782] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.785] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.788] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.793] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.797] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.799] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.802] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.804] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.809] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.814] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.817] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.820] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.821] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.830] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.835] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.839] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.841] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.848] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.851] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.854] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.857] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.866] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.868] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.871] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.872] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.880] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.882] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.884] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.886] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.897] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.907] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.909] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.911] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.912] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.915] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.918] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.920] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.931] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.934] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.937] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.939] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.949] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:05.951] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.954] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.960] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.971] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.974] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.976] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.977] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.984] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:05.986] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.989] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:05.990] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:05.993] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:05.995] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:05.996] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.001] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:06.003] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.005] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.008] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.010] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.011] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.014] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.036] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.038] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.042] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.044] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.058] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:05:06.060] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.063] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.064] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.070] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.072] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.074] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.077] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.081] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.083] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.084] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.103] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.106] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.109] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.110] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.118] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:05:06.121] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.124] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.126] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.128] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.129] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.131] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.135] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.139] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.141] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.143] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.162] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.165] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.167] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.169] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.179] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.180] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.186] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.187] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.195] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:06.197] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.200] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.202] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.205] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.206] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.208] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.209] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.212] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.214] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.216] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.239] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.240] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.242] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.245] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.255] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.257] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.259] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.260] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.272] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.273] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.278] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.280] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.289] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:06.294] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.298] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.300] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.310] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.313] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.317] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.319] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.321] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.324] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.325] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.337] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.339] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.341] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.343] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.357] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.360] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.362] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.364] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.374] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.377] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.379] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.381] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.393] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.396] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.400] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.402] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.409] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:05:06.412] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.414] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.417] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.419] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.421] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.422] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.424] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.426] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.428] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.430] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.450] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.453] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.455] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.456] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.466] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.468] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.470] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.472] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.481] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:06.483] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.485] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.487] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.489] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.491] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.493] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.499] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:06.501] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.504] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.508] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.511] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.513] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.515] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.526] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.528] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.532] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.534] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.552] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:05:06.554] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.556] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.558] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.561] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.562] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.564] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.567] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.570] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.572] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.573] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.590] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.592] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.594] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.596] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.607] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.609] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.611] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.612] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.624] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.626] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.628] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.629] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.639] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:05:06.641] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.644] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.645] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.647] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.649] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.650] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.658] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.660] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.662] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.663] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.680] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:06.681] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.685] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.687] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.689] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.692] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.694] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.697] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.699] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.703] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.704] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.720] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.722] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.724] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.726] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.736] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:06.738] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.741] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.744] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.750] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.753] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.756] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.757] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.759] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.762] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.764] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.776] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.778] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.780] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.782] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.796] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.799] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.801] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.802] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.811] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:05:06.813] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.816] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.817] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.820] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.822] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.824] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.828] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.830] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.832] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.833] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.850] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:06.853] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.856] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.858] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.860] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.862] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.863] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.867] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.869] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.871] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.872] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.894] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.896] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.898] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.903] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.908] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:06.910] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.912] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.914] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.916] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.918] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.919] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.928] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.930] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.932] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.934] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.954] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:06.956] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.958] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.959] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.974] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:06.976] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.979] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:06.981] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:06.994] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:05:06.996] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:06.999] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:07.000] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.002] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.004] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.005] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.008] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:07.009] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.011] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.013] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.033] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:07.035] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.037] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.040] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.049] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:07.051] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.053] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.055] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.064] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:07.066] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.068] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.069] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.081] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:07.085] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.088] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.090] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.094] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:07.096] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.098] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.099] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.117] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:05:07.120] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.123] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:07.125] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.127] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.128] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.129] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.135] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:05:07.137] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.140] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:07.142] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.144] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.146] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.148] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.166] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:07.176] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.181] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.183] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.196] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:07.198] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.201] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.202] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.214] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:07.216] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.218] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.219] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.232] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:07.234] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.237] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:07.238] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.241] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.242] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.243] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.247] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:07.249] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.251] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.252] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.270] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:07.273] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.276] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.277] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.293] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:07.295] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.297] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.299] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.312] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:07.313] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.316] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.317] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.329] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:05:07.331] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.333] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:05:07.335] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.337] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.340] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.341] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.345] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:05:07.347] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:05:07.349] [INFO] system - Rabbit Connection close
+[2016-03-18 11:05:07.351] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:05:07.370] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:22.694] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-03-18 11:08:22.725] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-03-18 11:08:22.941] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:22.989] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:08:22.996] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.000] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.005] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.008] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.011] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.016] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.019] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.022] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.028] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.032] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.037] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.042] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.047] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.051] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:08:23.054] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.061] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.063] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.066] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.072] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.076] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.078] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.080] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.083] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.087] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.090] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.093] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.097] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.102] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.103] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.120] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.123] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.125] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.127] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.146] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.152] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.155] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.157] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.162] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.167] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.170] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.172] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.183] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.185] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.188] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.190] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.203] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.205] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.208] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.209] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.221] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.224] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.226] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.228] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.237] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.239] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.242] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.244] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.255] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.258] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.260] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.263] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.277] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.284] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.288] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.289] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.300] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.303] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.305] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.309] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.314] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.318] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.323] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.324] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.333] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.338] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.345] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.349] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.352] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.360] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.367] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.371] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.374] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.381] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.383] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.388] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.392] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.394] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.396] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.397] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.407] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.410] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.412] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.418] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.426] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.428] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.433] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.435] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.441] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.443] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.446] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.447] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.458] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.461] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.464] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.465] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.472] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.474] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.476] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.481] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.488] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.494] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.496] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.498] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.512] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.514] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.516] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.517] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.523] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.526] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.528] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.529] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.539] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:08:23.541] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.543] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.545] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.548] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.549] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.552] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.562] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.564] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.566] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.568] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.584] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:08:23.587] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.590] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.595] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.601] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.603] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.606] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.608] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.610] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.612] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.613] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.626] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.628] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.630] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.631] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.643] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:08:23.645] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.647] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.650] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.652] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.654] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.655] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.658] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.661] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.663] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.665] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.683] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.685] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.687] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.689] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.698] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.700] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.702] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.704] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.715] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:08:23.717] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.719] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.721] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.723] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.725] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.726] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.731] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.733] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.735] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.737] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.759] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.761] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.763] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.765] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.772] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.776] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.778] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.779] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.785] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.787] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.789] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.791] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.801] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:08:23.802] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.805] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.808] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.815] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.817] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.822] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.825] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.827] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.829] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.830] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.839] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.841] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.843] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.845] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.854] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.856] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.858] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.860] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.866] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.868] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.870] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.871] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.880] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.884] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.887] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.888] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.895] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:08:23.897] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.900] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.901] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.903] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.905] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.906] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.909] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.911] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.913] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.914] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.934] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:23.936] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.938] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.939] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.947] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.949] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.952] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.953] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.965] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:08:23.967] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.970] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:23.971] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:23.974] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:23.975] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:23.977] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.021] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.022] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.027] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.031] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.048] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.050] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.053] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.055] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.067] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:08:24.069] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.072] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.073] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.076] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.078] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.079] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.084] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.086] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.088] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.090] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.105] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.107] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.109] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.111] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.122] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.124] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.126] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.127] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.137] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.139] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.142] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.144] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.149] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:08:24.153] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.155] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.157] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.161] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.164] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.165] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.167] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.169] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.172] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.173] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.188] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.190] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.192] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.193] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.202] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.205] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.206] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.208] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.217] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.219] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.221] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.222] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.227] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.229] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.231] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.232] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.249] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.251] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.253] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.255] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.263] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.267] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.280] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.282] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.283] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.285] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.287] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.288] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.297] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.299] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.301] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.302] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.312] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:08:24.313] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.316] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.318] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.320] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.321] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.323] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.325] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.327] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.329] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.331] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.347] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.349] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.351] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.352] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.363] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:08:24.365] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.367] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.369] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.377] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:08:24.379] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:08:24.381] [INFO] system - Rabbit Connection close
+[2016-03-18 11:08:24.382] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:08:24.393] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:39.750] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-03-18 11:11:39.781] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-03-18 11:11:39.980] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.029] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:11:40.033] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.038] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.046] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.049] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.052] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.056] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.059] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.061] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.063] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.065] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.068] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.073] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.075] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.079] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.081] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.086] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.089] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.093] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.098] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.104] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.110] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.113] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.116] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.119] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.123] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.125] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.136] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.141] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.144] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.157] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.162] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.165] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.170] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.172] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.174] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.177] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.180] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.184] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.190] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.194] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.200] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.204] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.208] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.214] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.222] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.225] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.229] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.231] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.234] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.235] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.243] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.247] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.250] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.251] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.255] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.260] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.262] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.264] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.273] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.278] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.282] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.284] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.295] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.297] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.299] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.303] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.305] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.308] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.311] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.312] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.320] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.323] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.325] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.327] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.334] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.337] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.339] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.341] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.351] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.357] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.364] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.371] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.374] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.377] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.381] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.385] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.387] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.390] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.392] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.395] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.397] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.399] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.401] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.403] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.419] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.424] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.426] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.432] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.435] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.437] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.439] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.441] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.451] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.454] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.456] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.457] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.466] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.468] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.470] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.471] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.481] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:11:40.483] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.488] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.490] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.492] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.495] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.497] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.502] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:11:40.504] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.507] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.508] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.513] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.514] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.516] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.528] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.531] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.533] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.536] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.558] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.560] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.562] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.564] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.573] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.575] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.577] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.579] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.596] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.598] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.600] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.604] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.614] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.616] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.618] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.623] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.629] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.632] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.634] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.637] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.644] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.646] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.650] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.654] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.658] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.660] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.662] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.664] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.674] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.677] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.679] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.681] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.687] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.689] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.691] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.692] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.703] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.705] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.707] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.708] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.717] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.719] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.721] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.722] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.729] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.731] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.734] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.735] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.745] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.748] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.750] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.751] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.759] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.763] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.765] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.767] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.772] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.775] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.778] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.779] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.786] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:11:40.790] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.793] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.794] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.797] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.802] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.804] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.806] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.808] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.810] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.814] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.826] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.828] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.830] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.831] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.838] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:11:40.841] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.848] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.850] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.853] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.855] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.856] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.858] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.859] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.861] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.863] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.881] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.885] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.887] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.889] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.901] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.903] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.906] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.909] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.922] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:11:40.924] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.927] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.930] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.933] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.935] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.936] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.937] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.940] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.942] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.943] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.958] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.960] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.961] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.963] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.971] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:40.973] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.976] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.979] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.984] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:40.986] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:40.988] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:40.991] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:40.997] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 11:11:40.999] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.002] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:41.005] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.008] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.010] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.011] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.022] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:41.025] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.028] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.030] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.043] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:41.045] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.047] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.048] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.057] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:41.058] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.060] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.061] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.070] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:41.073] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.075] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.076] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.083] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:41.085] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.086] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.088] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.097] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:11:41.098] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.101] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:41.105] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.107] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.108] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.109] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.111] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:41.113] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.115] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.117] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.134] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:41.136] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.138] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.140] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.151] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:41.154] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.156] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.157] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.170] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:41.173] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.175] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.176] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.182] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:41.184] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.186] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.187] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.196] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:41.198] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.200] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.201] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.208] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 11:11:41.210] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.212] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:41.213] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.217] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.218] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.219] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.224] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 11:11:41.226] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.228] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.230] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 11:11:41.248] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 11:11:41.249] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 11:11:41.251] [INFO] system - Rabbit Connection close
+[2016-03-18 11:11:41.252] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:55.549] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-03-18 13:56:55.610] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-03-18 13:56:55.908] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:58.905] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 13:56:59.062] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.066] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.109] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.112] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.115] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.118] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.120] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 13:56:59.142] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.146] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.149] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.154] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.156] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.157] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.236] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.238] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.241] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.243] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.288] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.294] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.297] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.299] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.335] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.339] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.342] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.343] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.356] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.358] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.362] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.363] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.367] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.371] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.373] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.376] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.393] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.395] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.398] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.403] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.409] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.421] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.424] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.426] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.427] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.429] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.431] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.433] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.440] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.442] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.443] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.445] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.466] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.469] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.471] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.474] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.476] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.479] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.481] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.483] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.490] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.493] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.496] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.500] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.506] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.515] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.518] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.520] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.526] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.528] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.530] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.531] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.542] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.544] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.546] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.548] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.558] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.560] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.562] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.563] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.573] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.589] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.591] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.594] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.597] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.601] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.602] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.605] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.617] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 13:56:59.621] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.624] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.626] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.628] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.630] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.631] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.633] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.635] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.637] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.647] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.660] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.663] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.666] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.667] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.677] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.681] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.683] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.685] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.799] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.801] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.804] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.806] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.847] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.849] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.852] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.854] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.896] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.898] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.900] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 13:56:59.903] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.905] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.906] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.908] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:56:59.954] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:56:59.986] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.988] [INFO] system - Rabbit Connection close
+[2016-03-18 13:56:59.990] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:56:59.993] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:56:59.996] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 13:56:59.998] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.000] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.004] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.015] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.019] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.082] [ERROR] system - Rabbit Connection errorError: CHANNEL_ERROR - unexpected method in connection state running;host:127.0.0.1
+[2016-03-18 13:57:00.091] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.093] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.095] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.098] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.102] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.103] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.104] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.106] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.109] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.111] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.113] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.136] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.139] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.141] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.142] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.152] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.154] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.156] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.166] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.170] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.171] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.174] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.175] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.253] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.257] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.260] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.262] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.270] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.273] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.275] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.278] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.283] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.285] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.287] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.288] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.300] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.302] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.304] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.306] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.327] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.329] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.332] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.333] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.336] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.339] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.343] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.345] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.357] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.359] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.361] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.362] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.371] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.373] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.375] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.377] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.385] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 13:57:00.388] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.391] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.394] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.396] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.397] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.399] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.406] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.408] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.410] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.411] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.428] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.430] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.432] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.434] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.444] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.447] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.449] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.451] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.459] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.2
+[2016-03-18 13:57:00.462] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.465] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.467] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.469] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.471] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.472] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.475] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.480] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.483] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.485] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.498] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.500] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.502] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.503] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.520] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.522] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.524] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.528] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.545] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.547] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.549] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.550] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.559] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.561] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.563] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.565] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.576] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 13:57:00.578] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.581] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.583] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.586] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.587] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.589] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.594] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.595] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.598] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.600] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.620] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.623] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.626] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.630] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.635] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.638] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.640] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.641] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.653] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.655] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.657] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.659] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.668] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.670] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.672] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.673] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.684] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.686] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.688] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.689] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.700] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 13:57:00.703] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.705] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.707] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.710] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.713] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.715] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.716] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.718] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.720] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.722] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.738] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.740] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.743] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.745] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.753] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.1
+[2016-03-18 13:57:00.755] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.757] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.758] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.770] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:57:00.774] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.776] [INFO] system - Rabbit Connection close
+[2016-03-18 13:57:00.778] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:57:00.795] [ERROR] system - Rabbit Connection errorReferenceError: log is not defined;host:127.0.0.1
+[2016-03-18 13:57:00.797] [INFO] system - Rabbit Attempts to reconnect
+[2016-03-18 13:57:00.800] [ERROR] system - Rabbit Connection errorError: read ECONNRESET;host:127.0.0.2
+[2016-03-18 13:59:56.314] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-03-18 13:59:56.349] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-03-18 13:59:56.419] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 13:59:56.467] [INFO] system - rabbitConnection ready
+[2016-03-18 14:00:41.506] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-03-18 14:00:41.570] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-03-18 14:00:41.614] [INFO] system - Rabbit Connection connect Success
+[2016-03-18 14:02:11.670] [INFO] system - client close
+[2016-03-18 14:04:16.767] [INFO] system - client close
+[2016-03-18 14:04:36.683] [INFO] system - client close
+[2016-03-18 14:04:36.685] [INFO] system - client close
+[2016-03-18 14:04:41.845] [INFO] system - client close
+[2016-03-18 14:04:41.871] [INFO] system - client close
+[2016-03-18 14:04:41.890] [INFO] system - client close
+[2016-03-18 14:04:41.914] [INFO] system - client close
+[2016-03-18 14:04:41.917] [INFO] system - client close
+[2016-03-18 14:04:57.083] [INFO] system - client close
+[2016-03-18 14:04:57.637] [INFO] system - client close
+[2016-03-18 14:05:01.859] [INFO] system - client close
+[2016-03-18 14:05:02.206] [INFO] system - client close
+[2016-03-18 14:05:02.610] [INFO] system - client close
+[2016-03-18 14:05:02.615] [INFO] system - client close
+[2016-03-18 14:05:02.616] [INFO] system - client close
+[2016-03-18 14:05:02.638] [INFO] system - client close
+[2016-03-18 14:05:02.641] [INFO] system - client close
+[2016-03-18 14:05:02.784] [INFO] system - client close
+[2016-03-18 14:05:02.789] [INFO] system - client close
+[2016-03-18 14:05:02.793] [INFO] system - client close
+[2016-03-18 14:05:02.794] [INFO] system - client close
+[2016-03-18 14:05:02.798] [INFO] system - client close
+[2016-03-18 14:05:02.807] [INFO] system - client close
+[2016-03-18 14:05:02.810] [INFO] system - client close
+[2016-03-18 14:05:02.814] [INFO] system - client close
+[2016-03-18 14:05:02.816] [INFO] system - client close
+[2016-03-18 14:05:02.821] [INFO] system - client close
+[2016-03-18 14:05:02.824] [INFO] system - client close
+[2016-03-18 14:05:02.828] [INFO] system - client close
+[2016-03-18 14:05:02.829] [INFO] system - client close
+[2016-03-18 14:05:02.830] [INFO] system - client close
+[2016-03-18 14:05:02.832] [INFO] system - client close
+[2016-03-18 14:05:02.833] [INFO] system - client close
+[2016-03-18 14:05:02.834] [INFO] system - client close
+[2016-03-18 14:05:02.836] [INFO] system - client close
+[2016-03-18 14:05:02.837] [INFO] system - client close
+[2016-03-18 14:05:02.839] [INFO] system - client close
+[2016-03-18 14:05:02.841] [INFO] system - client close
+[2016-03-18 14:05:02.843] [INFO] system - client close
+[2016-03-18 14:05:02.846] [INFO] system - client close
+[2016-03-18 14:05:02.848] [INFO] system - client close
+[2016-03-18 14:05:06.723] [INFO] system - client close
+[2016-03-18 14:05:08.051] [INFO] system - client close
+[2016-03-18 14:05:08.061] [INFO] system - client close
+[2016-03-18 14:05:08.068] [INFO] system - client close
+[2016-03-18 14:05:08.107] [INFO] system - client close
+[2016-03-18 14:05:08.117] [INFO] system - client close
+[2016-03-18 14:05:08.141] [INFO] system - client close
+[2016-03-18 14:05:08.148] [INFO] system - client close
+[2016-03-18 14:05:08.150] [INFO] system - client close
+[2016-03-18 14:05:08.153] [INFO] system - client close
+[2016-03-18 14:05:08.169] [INFO] system - client close
+[2016-03-18 14:05:08.171] [INFO] system - client close
+[2016-03-18 14:05:08.180] [INFO] system - client close
+[2016-03-18 14:05:08.186] [INFO] system - client close
+[2016-03-18 14:05:08.189] [INFO] system - client close
+[2016-03-18 14:05:08.192] [INFO] system - client close
+[2016-03-18 14:05:08.202] [INFO] system - client close
+[2016-03-18 14:05:08.204] [INFO] system - client close
+[2016-03-18 14:05:08.224] [INFO] system - error 
+[2016-03-18 14:05:08.227] [INFO] system - error 
+[2016-03-18 14:05:08.236] [INFO] system - error 
+[2016-03-18 14:05:08.237] [INFO] system - error 
+[2016-03-18 14:05:08.238] [INFO] system - error 
+[2016-03-18 14:05:08.240] [INFO] system - error 
+[2016-03-18 14:05:08.241] [INFO] system - error 
+[2016-03-18 14:05:08.242] [INFO] system - error 
+[2016-03-18 14:05:08.243] [INFO] system - error 
+[2016-03-18 14:05:08.243] [INFO] system - error 
+[2016-03-18 14:05:08.244] [INFO] system - error 
+[2016-03-18 14:05:08.245] [INFO] system - error 
+[2016-03-18 14:05:08.246] [INFO] system - error 
+[2016-03-18 14:05:08.247] [INFO] system - error 
+[2016-03-18 14:05:08.248] [INFO] system - error 
+[2016-03-18 14:05:08.249] [INFO] system - error 
+[2016-03-18 14:05:08.250] [INFO] system - error 
+[2016-03-18 14:05:08.253] [INFO] system - client close
+[2016-03-18 14:05:08.255] [INFO] system - client close
+[2016-03-18 14:05:08.256] [INFO] system - client close
+[2016-03-18 14:05:08.257] [INFO] system - client close
+[2016-03-18 14:05:08.259] [INFO] system - client close
+[2016-03-18 14:05:08.263] [INFO] system - client close
+[2016-03-18 14:05:08.265] [INFO] system - client close
+[2016-03-18 14:05:08.266] [INFO] system - client close
+[2016-03-18 14:05:08.267] [INFO] system - client close
+[2016-03-18 14:05:08.268] [INFO] system - client close
+[2016-03-18 14:05:08.269] [INFO] system - client close
+[2016-03-18 14:05:08.272] [INFO] system - client close
+[2016-03-18 14:05:08.273] [INFO] system - client close
+[2016-03-18 14:05:08.278] [INFO] system - client close
+[2016-03-18 14:05:08.279] [INFO] system - client close
+[2016-03-18 14:05:08.280] [INFO] system - client close
+[2016-03-18 14:05:08.285] [INFO] system - client close
+[2016-03-18 14:05:08.290] [INFO] system - error 
+[2016-03-18 14:05:08.294] [INFO] system - error 
+[2016-03-18 14:05:08.295] [INFO] system - error 
+[2016-03-18 14:05:08.296] [INFO] system - error 
+[2016-03-18 14:05:08.297] [INFO] system - error 
+[2016-03-18 14:05:08.298] [INFO] system - error 
+[2016-03-18 14:05:08.300] [INFO] system - error 
+[2016-03-18 14:05:08.301] [INFO] system - error 
+[2016-03-18 14:05:08.302] [INFO] system - error 
+[2016-03-18 14:05:08.303] [INFO] system - error 
+[2016-03-18 14:05:08.304] [INFO] system - error 
+[2016-03-18 14:05:08.312] [INFO] system - error 
+[2016-03-18 14:05:08.313] [INFO] system - error 
+[2016-03-18 14:05:08.315] [INFO] system - error 
+[2016-03-18 14:05:08.316] [INFO] system - error 
+[2016-03-18 14:05:08.317] [INFO] system - error 
+[2016-03-18 14:05:08.318] [INFO] system - error 
+[2016-03-18 14:05:11.743] [INFO] system - client close
+[2016-03-18 14:05:11.745] [INFO] system - client close
+[2016-03-18 14:05:11.747] [INFO] system - client close
+[2016-03-18 14:05:11.748] [INFO] system - client close
+[2016-03-18 14:05:11.750] [INFO] system - client close
+[2016-03-18 14:05:11.752] [INFO] system - client close
+[2016-03-18 14:05:11.753] [INFO] system - client close
+[2016-03-18 14:05:11.754] [INFO] system - client close
+[2016-03-18 14:05:11.755] [INFO] system - client close
+[2016-03-18 14:05:11.757] [INFO] system - client close
+[2016-03-18 14:05:11.758] [INFO] system - client close
+[2016-03-18 14:05:11.790] [INFO] system - client close
+[2016-03-18 14:05:11.793] [INFO] system - client close
+[2016-03-18 14:05:11.817] [INFO] system - error 
+[2016-03-18 14:05:11.832] [INFO] system - error 
+[2016-03-18 14:05:11.834] [INFO] system - error 
+[2016-03-18 14:05:11.836] [INFO] system - error 
+[2016-03-18 14:05:11.861] [INFO] system - error 
+[2016-03-18 14:05:11.863] [INFO] system - error 
+[2016-03-18 14:05:11.864] [INFO] system - error 
+[2016-03-18 14:05:11.868] [INFO] system - error 
+[2016-03-18 14:05:11.870] [INFO] system - error 
+[2016-03-18 14:05:11.875] [INFO] system - error 
+[2016-03-18 14:05:11.876] [INFO] system - error 
+[2016-03-18 14:05:11.877] [INFO] system - error 
+[2016-03-18 14:05:11.879] [INFO] system - client close
+[2016-03-18 14:05:11.881] [INFO] system - client close
+[2016-03-18 14:05:11.883] [INFO] system - client close
+[2016-03-18 14:05:11.885] [INFO] system - client close
+[2016-03-18 14:05:11.888] [INFO] system - client close
+[2016-03-18 14:05:11.889] [INFO] system - client close
+[2016-03-18 14:05:11.890] [INFO] system - client close
+[2016-03-18 14:05:11.892] [INFO] system - client close
+[2016-03-18 14:05:11.893] [INFO] system - client close
+[2016-03-18 14:05:11.894] [INFO] system - client close
+[2016-03-18 14:05:11.896] [INFO] system - client close
+[2016-03-18 14:05:11.897] [INFO] system - error 
+[2016-03-18 14:05:11.899] [INFO] system - error 
+[2016-03-18 14:05:11.900] [INFO] system - error 
+[2016-03-18 14:05:11.902] [INFO] system - error 
+[2016-03-18 14:05:11.903] [INFO] system - error 
+[2016-03-18 14:05:11.905] [INFO] system - error 
+[2016-03-18 14:05:11.906] [INFO] system - error 
+[2016-03-18 14:05:11.908] [INFO] system - error 
+[2016-03-18 14:05:11.910] [INFO] system - error 
+[2016-03-18 14:05:11.912] [INFO] system - error 
+[2016-03-18 14:05:11.913] [INFO] system - error 
+[2016-05-20 09:47:59.324] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 09:47:59.371] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 09:47:59.434] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 09:48:00.285] [INFO] system - rabbitConnection ready
+[2016-05-20 09:48:28.444] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 09:48:28.466] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 09:48:28.760] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 09:48:28.801] [INFO] system - rabbitConnection ready
+[2016-05-20 09:48:29.782] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-20 09:48:29.782] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-20 09:48:31.008] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-20 09:48:31.011] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-20 09:48:32.354] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-20 09:48:32.356] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-20 09:50:44.645] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 09:50:44.676] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 09:50:44.868] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 09:50:44.905] [INFO] system - rabbitConnection ready
+[2016-05-20 09:51:11.049] [INFO] system - client close
+[2016-05-20 09:51:11.076] [INFO] system - error 
+[2016-05-20 10:06:34.361] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:06:34.390] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:06:34.579] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:06:34.631] [INFO] system - rabbitConnection ready
+[2016-05-20 10:10:53.735] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:10:53.772] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:10:53.997] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:10:54.040] [INFO] system - rabbitConnection ready
+[2016-05-20 10:11:52.295] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:11:52.342] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:11:52.557] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:11:52.599] [INFO] system - rabbitConnection ready
+[2016-05-20 10:12:56.432] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:12:56.464] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:12:56.666] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:12:56.707] [INFO] system - rabbitConnection ready
+[2016-05-20 10:13:39.533] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:13:39.566] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:13:39.777] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:13:39.821] [INFO] system - rabbitConnection ready
+[2016-05-20 10:14:18.815] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:14:18.849] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:14:19.056] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:14:19.097] [INFO] system - rabbitConnection ready
+[2016-05-20 10:18:27.213] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:18:27.249] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:18:27.488] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:18:27.532] [INFO] system - rabbitConnection ready
+[2016-05-20 10:19:11.639] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:19:11.677] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:19:11.894] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:19:11.941] [INFO] system - rabbitConnection ready
+[2016-05-20 10:30:59.331] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:30:59.363] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:30:59.603] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:30:59.646] [INFO] system - rabbitConnection ready
+[2016-05-20 10:34:51.205] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:34:51.237] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:34:51.456] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:34:51.499] [INFO] system - rabbitConnection ready
+[2016-05-20 10:51:44.309] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:51:44.342] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:51:44.547] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:51:44.592] [INFO] system - rabbitConnection ready
+[2016-05-20 10:54:20.084] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 10:54:20.116] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 10:54:20.330] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 10:54:20.376] [INFO] system - rabbitConnection ready
+[2016-05-20 11:00:19.408] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:00:19.440] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:00:19.647] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:00:19.689] [INFO] system - rabbitConnection ready
+[2016-05-20 11:00:42.049] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:00:42.081] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:00:42.131] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:02:15.032] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:02:15.064] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:02:15.114] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:07:23.118] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:07:23.152] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:07:23.354] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:07:23.399] [INFO] system - rabbitConnection ready
+[2016-05-20 11:07:28.319] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:07:28.352] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:07:28.403] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:50:48.222] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:50:48.266] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:50:48.320] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:50:55.534] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:50:55.567] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:50:55.783] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:50:55.831] [INFO] system - rabbitConnection ready
+[2016-05-20 11:52:24.159] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:52:24.194] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:52:24.409] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:52:24.454] [INFO] system - rabbitConnection ready
+[2016-05-20 11:52:28.467] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:52:28.502] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:52:28.561] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:52:40.768] [INFO] system - client close
+[2016-05-20 11:53:13.570] [INFO] system - client close
+[2016-05-20 11:53:27.054] [INFO] system - client close
+[2016-05-20 11:53:37.213] [INFO] system - client close
+[2016-05-20 11:54:34.495] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:54:34.529] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:54:34.751] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:54:34.796] [INFO] system - rabbitConnection ready
+[2016-05-20 11:54:51.572] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:54:51.608] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:54:51.655] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:55:01.422] [INFO] system - client close
+[2016-05-20 11:58:04.870] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:58:04.911] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:58:05.186] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 11:58:05.233] [INFO] system - rabbitConnection ready
+[2016-05-20 11:58:09.659] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 11:58:09.692] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 11:58:09.750] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:33:55.422] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:33:55.453] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:33:55.662] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:33:55.705] [INFO] system - rabbitConnection ready
+[2016-05-20 12:34:20.294] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:34:20.328] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:34:20.546] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:34:20.590] [INFO] system - rabbitConnection ready
+[2016-05-20 12:35:11.661] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:35:11.693] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:35:11.914] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:35:11.956] [INFO] system - rabbitConnection ready
+[2016-05-20 12:35:53.389] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:35:53.419] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:35:53.592] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:35:53.627] [INFO] system - rabbitConnection ready
+[2016-05-20 12:38:16.722] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:38:16.747] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:38:16.896] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:38:16.926] [INFO] system - rabbitConnection ready
+[2016-05-20 12:43:18.402] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:43:18.436] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:43:18.649] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:43:18.699] [INFO] system - rabbitConnection ready
+[2016-05-20 12:45:01.461] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:45:01.497] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:45:01.714] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:45:01.754] [INFO] system - rabbitConnection ready
+[2016-05-20 12:45:15.781] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:45:15.833] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:45:15.905] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:48:50.062] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:48:50.093] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:48:50.313] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:48:50.357] [INFO] system - rabbitConnection ready
+[2016-05-20 12:50:29.324] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:50:29.357] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:50:29.576] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:50:29.620] [INFO] system - rabbitConnection ready
+[2016-05-20 12:50:34.518] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:50:34.555] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:50:34.607] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 12:59:35.811] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 12:59:35.850] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 12:59:35.911] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:03:16.824] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:03:16.859] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:03:17.095] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:03:17.139] [INFO] system - rabbitConnection ready
+[2016-05-20 13:03:24.531] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:03:24.570] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:03:24.631] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:04:56.851] [INFO] system - client close
+[2016-05-20 13:04:56.856] [INFO] system - client close
+[2016-05-20 13:05:52.596] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:05:52.628] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:05:52.841] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:05:52.884] [INFO] system - rabbitConnection ready
+[2016-05-20 13:05:57.974] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:05:58.020] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:05:58.078] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:09:07.379] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:09:07.406] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:09:07.598] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:09:07.638] [INFO] system - rabbitConnection ready
+[2016-05-20 13:09:12.177] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:09:12.204] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:09:12.251] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:09:44.093] [INFO] system - client close
+[2016-05-20 13:15:59.965] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:16:00.002] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:16:00.220] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:16:00.266] [INFO] system - rabbitConnection ready
+[2016-05-20 13:16:13.705] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:16:13.744] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:16:13.806] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:18:27.030] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:18:27.058] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:18:27.232] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:18:27.270] [INFO] system - rabbitConnection ready
+[2016-05-20 13:20:30.236] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:20:30.268] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:20:30.484] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:20:30.524] [INFO] system - rabbitConnection ready
+[2016-05-20 13:21:17.780] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:21:17.813] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:21:18.065] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:21:18.128] [INFO] system - rabbitConnection ready
+[2016-05-20 13:25:48.676] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:25:48.708] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:25:48.924] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:25:49.197] [INFO] system - rabbitConnection ready
+[2016-05-20 13:29:52.189] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:29:52.225] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:29:52.453] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:29:52.493] [INFO] system - rabbitConnection ready
+[2016-05-20 13:37:32.229] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:37:32.254] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:37:32.427] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:37:32.461] [INFO] system - rabbitConnection ready
+[2016-05-20 13:37:41.928] [ERROR] system - [TypeError: connections.length is not a function]
+TypeError: connections.length is not a function
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:81:40
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 13:37:41.946] [ERROR] system - [TypeError: connections.length is not a function]
+TypeError: connections.length is not a function
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:81:40
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 13:37:46.951] [ERROR] system - [TypeError: connections.length is not a function]
+TypeError: connections.length is not a function
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:81:40
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 13:37:46.961] [ERROR] system - [TypeError: connections.length is not a function]
+TypeError: connections.length is not a function
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:81:40
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 13:39:31.973] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:39:32.005] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:39:32.233] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:39:32.279] [INFO] system - rabbitConnection ready
+[2016-05-20 13:39:42.078] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:39:42.116] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:39:42.174] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:39:53.650] [INFO] system - client close
+[2016-05-20 13:40:34.327] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:40:34.359] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:40:34.598] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:40:34.661] [INFO] system - rabbitConnection ready
+[2016-05-20 13:40:56.253] [INFO] system - client close
+[2016-05-20 13:40:57.377] [INFO] system - error 
+[2016-05-20 13:40:57.381] [INFO] system - error 
+[2016-05-20 13:41:02.390] [INFO] system - error 
+[2016-05-20 13:41:02.392] [INFO] system - error 
+[2016-05-20 13:41:02.395] [INFO] system - error 
+[2016-05-20 13:41:02.397] [INFO] system - error 
+[2016-05-20 13:41:07.396] [INFO] system - error 
+[2016-05-20 13:41:07.399] [INFO] system - error 
+[2016-05-20 13:41:07.402] [INFO] system - error 
+[2016-05-20 13:41:07.404] [INFO] system - error 
+[2016-05-20 13:41:12.408] [INFO] system - error 
+[2016-05-20 13:41:12.410] [INFO] system - error 
+[2016-05-20 13:41:12.418] [INFO] system - error 
+[2016-05-20 13:41:12.421] [INFO] system - error 
+[2016-05-20 13:41:17.423] [INFO] system - error 
+[2016-05-20 13:41:17.424] [INFO] system - error 
+[2016-05-20 13:41:17.429] [INFO] system - error 
+[2016-05-20 13:41:17.431] [INFO] system - error 
+[2016-05-20 13:41:22.441] [INFO] system - error 
+[2016-05-20 13:41:22.451] [INFO] system - error 
+[2016-05-20 13:41:22.455] [INFO] system - error 
+[2016-05-20 13:41:22.457] [INFO] system - error 
+[2016-05-20 13:41:27.448] [INFO] system - error 
+[2016-05-20 13:41:27.449] [INFO] system - error 
+[2016-05-20 13:41:27.454] [INFO] system - error 
+[2016-05-20 13:41:27.455] [INFO] system - error 
+[2016-05-20 13:43:18.120] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:43:18.155] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:43:18.403] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:43:18.447] [INFO] system - rabbitConnection ready
+[2016-05-20 13:44:33.629] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:44:33.664] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:44:33.901] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:44:33.937] [INFO] system - rabbitConnection ready
+[2016-05-20 13:45:50.811] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:45:50.845] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:45:51.065] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:45:51.107] [INFO] system - rabbitConnection ready
+[2016-05-20 13:48:08.120] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:48:08.152] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:48:08.378] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:48:08.425] [INFO] system - rabbitConnection ready
+[2016-05-20 13:50:19.824] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:50:19.857] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:50:20.095] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:50:20.144] [INFO] system - rabbitConnection ready
+[2016-05-20 13:50:39.382] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:50:39.425] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:50:39.474] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:52:39.128] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:52:39.160] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:52:39.382] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 13:52:39.427] [INFO] system - rabbitConnection ready
+[2016-05-20 13:52:53.078] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 13:52:53.117] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 13:52:53.176] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 14:01:30.553] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 14:01:30.585] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 14:01:30.827] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 14:01:30.875] [INFO] system - rabbitConnection ready
+[2016-05-20 14:01:44.284] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 14:01:44.324] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 14:01:44.375] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 14:02:49.522] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:02:54.535] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:02:59.542] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:04.551] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:09.562] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:14.570] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:19.578] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:24.586] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:29.611] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:34.602] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:39.628] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:44.631] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:49.644] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:03:54.652] [ERROR] system - [TypeError: Cannot read property 'sendText' of undefined]
+TypeError: Cannot read property 'sendText' of undefined
+    at E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\app.js:82:28
+    at Message.<anonymous> (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:190:28)
+    at emitNone (events.js:67:13)
+    at Message.emit (events.js:166:7)
+    at Queue._onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\queue.js:529:25)
+    at AMQPParser.self.parser.onContent (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\connection.js:142:32)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:100:18)
+    at frame (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:78:14)
+    at header (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:64:14)
+    at frameEnd (E:\project\0129\nodejs-websocketServer\nodejs-websocketServer\node_modules\amqp\lib\parser.js:111:16)
+[2016-05-20 14:20:45.492] [INFO] system - create 4 process
+[2016-05-20 14:20:47.425] [INFO] system - create 4 process
+[2016-05-20 14:20:47.472] [INFO] system - create 4 process
+[2016-05-20 14:20:47.830] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 14:20:47.857] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 14:20:47.517] [INFO] system - create 4 process
+[2016-05-20 14:20:47.861] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 14:20:47.871] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 14:20:48.103] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 14:20:48.178] [INFO] system - rabbitConnection ready
+[2016-05-20 14:20:48.115] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 14:20:47.517] [INFO] system - create 4 process
+[2016-05-20 14:20:48.202] [INFO] system - rabbitConnection ready
+[2016-05-20 14:20:47.899] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 14:20:47.922] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-20 14:20:47.915] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 14:20:48.154] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 14:20:47.937] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-20 14:20:48.209] [INFO] system - Rabbit Connection connect Success
+[2016-05-20 14:20:48.265] [INFO] system - rabbitConnection ready
+[2016-05-20 14:20:48.296] [INFO] system - rabbitConnection ready
+[2016-05-21 17:29:38.288] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-21 17:29:38.363] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-21 17:29:38.792] [INFO] system - Rabbit Connection connect Success
+[2016-05-21 17:29:39.785] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:39.791] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:40.910] [INFO] system - rabbitConnection ready
+[2016-05-21 17:29:40.988] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:40.997] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:42.331] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:42.341] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:43.911] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:43.925] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:45.897] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:45.913] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:48.572] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:48.592] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:52.419] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:52.437] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:58.251] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:29:58.271] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:31:09.867] [INFO] system - { host: '127.0.0.2', port: '5672' }
+[2016-05-21 17:31:09.901] [INFO] system - { host: '127.0.0.1', port: '5672' }
+[2016-05-21 17:31:10.091] [INFO] system - Rabbit Connection connect Success
+[2016-05-21 17:31:10.149] [INFO] system - rabbitConnection ready
+[2016-05-21 17:36:04.427] [INFO] system - {host: '127.0.0.2',port: '5672'}
+[2016-05-21 17:36:04.447] [INFO] system - {host: '127.0.0.1',port: '5672'}
+[2016-05-21 17:36:04.452] [INFO] system - Rabbit Connection connect Success
+[2016-05-21 17:36:04.454] [INFO] system - rabbitConnection ready
+[2016-05-21 17:36:57.952] [INFO] system - {host: '127.0.0.2',port: '5672'}
+[2016-05-21 17:36:57.973] [INFO] system - {host: '127.0.0.1',port: '5672'}
+[2016-05-21 17:36:57.978] [INFO] system - Rabbit Connection connect Success
+[2016-05-21 17:36:57.980] [INFO] system - rabbitConnection ready
+[2016-05-21 17:37:48.091] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - read ECONNRESET
+[2016-05-21 17:37:48.098] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - read ECONNRESET
+[2016-05-21 17:37:49.302] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2016-05-21 17:37:49.305] [ERROR] system - redis Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
